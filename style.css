@@ -1,0 +1,42 @@
+
+.header{
+  text-align: center;
+  background: url(http://bestanimations.com/Holidays/Fireworks/fireworks/ba-colorful-row-of-firework-shells-pretty-animated-gif-pic.gif)repeat;
+
+}
+#wish{
+  color: blue;
+}
+#name{
+  color: red;
+  font-size: 77px;
+}
+.container{
+  margin: 0 auto;
+  color: #fff;
+  font-size: 32px;
+}
+
+.content img{
+  float: right;
+
+}
+
+.footer p{
+  text-align: right;
+  font-size: 15px;
+}
+#emphasis{
+  color: red;
+}
+#wishbody{
+  color: yellow;
+}
+#body2wish{
+  color: blue;
+}
+
+.fullbody{
+    background: url(https://media.giphy.com/media/j7N0GKEWqZxNC/giphy.gif) no-repeat;
+    background-size: cover;
+}
